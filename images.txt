@@ -2,6 +2,3 @@ ollama/ollama
 python:3.8.17
 ghcr.io/open-webui/open-webui:ollama
 mintplexlabs/anythingllm
-sd-invoke:31
-sd-auto:78
-sd-comfy:7
