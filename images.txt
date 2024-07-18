@@ -1,7 +1,2 @@
-ollama/ollama
-ghcr.io/open-webui/open-webui:ollama
-mintplexlabs/anythingllm
 nginx:latest
-silverlogic/python3.8
-silverlogic/python3.10
-alpine/socat
+bobrik/socat
