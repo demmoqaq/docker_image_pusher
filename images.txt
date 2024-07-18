@@ -1,5 +1,5 @@
 ollama/ollama
-python:3.8.17
 ghcr.io/open-webui/open-webui:ollama
 mintplexlabs/anythingllm
 nginx:latest
+silverlogic/python3.8
