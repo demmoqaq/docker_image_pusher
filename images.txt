@@ -1,1 +1,1 @@
-bobrik/socat
+alpine/socat:latest
