@@ -1,4 +1,1 @@
-alpine/socat:latest
-python:3.8
-python:3.8-slim
-node:20.10
+zlmediakit/zlmediakit:master
