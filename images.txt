@@ -1,7 +1,1 @@
-python:3.10-buster
-python:3.10-slim-buster
-python:3.10-bullseye
-python:3.10-slim-bullseye
-node:20.10 
-nginx:latest
-postgres:15.4
+filebrowser/filebrowser
