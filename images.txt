@@ -1,2 +1,7 @@
-filebrowser/filebrowser
-heartexlabs/label-studio
+langchain/langsmith-playground:0.7.7
+langchain/langsmith-frontend:0.7.7
+langchain/langsmith-backend:0.7.7
+langchain/langsmith-go-backend:0.7.7
+postgres:14.7
+redis:7
+clickhouse/clickhouse-server:24.2
