@@ -1,1 +1,2 @@
 registry.hf.space/csgaobb-metauas:latest
+python:3.10
